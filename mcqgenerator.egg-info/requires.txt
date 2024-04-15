@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+huggingface_hub
+transformers
+bitsandbytes
+accelerate
