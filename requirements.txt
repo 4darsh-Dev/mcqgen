@@ -3,3 +3,9 @@ langchain
 streamlit
 pyPDF2
 python-dotenv
+huggingface_hub
+transformers
+bitsandbytes
+accelerate
+ 
+-e .
